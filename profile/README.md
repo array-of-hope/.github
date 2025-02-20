@@ -1,5 +1,8 @@
 # Array of Hope
 ## A Hack Club Sock Team!
+Our game will be made public at the conclusion of Sock! :socks:
+
+
 <!--
 
 **Here are some ideas to get you started:**
